@@ -1,0 +1,3434 @@
+{
+  "C:\\Users\\Егор\\Documents\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779216406.492319
+  },
+  "C:\\Users\\Егор\\Documents\\Database1.accdb": {
+    "hash": "8ca33733bc652c6e61fde067474ed7dca53b58a105d2510fe5b9f1bb21250ef7",
+    "mtime": 1778733507.4077253
+  },
+  "C:\\Users\\Егор\\Documents\\Database2.accdb": {
+    "hash": "59aa2d2fa129bae6440da417308242775fdd954ddfa5bdc7f2221c1383017b90",
+    "mtime": 1780868364.55926
+  },
+  "C:\\Users\\Егор\\Documents\\desktop.ini": {
+    "hash": "cafec240d998e4b6e92ad1329cd417e8e9cbd73157488889fd93a542de4a4844",
+    "mtime": 1760186976.9084592
+  },
+  "C:\\Users\\Егор\\Documents\\IISExpress\\config\\applicationhost.config": {
+    "hash": "7d8ee1aff50282aa795475de1297dc880061d50f16a434b48147799ac4e19b55",
+    "mtime": 1559529340.0
+  },
+  "C:\\Users\\Егор\\Documents\\IISExpress\\config\\aspnet.config": {
+    "hash": "3145ba33cbfd51fb664f59e5ff413b9eccfd06c25a94c6edd3ce94edfbd1a96b",
+    "mtime": 1559529340.0
+  },
+  "C:\\Users\\Егор\\Documents\\IISExpress\\config\\redirection.config": {
+    "hash": "fc14cf7ed10df61cd9e94d530796b9c6e5f89b09ac977f42a2a496950a3da6db",
+    "mtime": 1559529340.0
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8.1CD": {
+    "hash": "9d8bfe7d327fbf72e0de5722f06211a7340454c7a5ff6450c37b79000ca3aedb",
+    "mtime": 1779218266.693102
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3686545
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3686545
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3686545
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1779218113.3772256
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3772256
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3772256
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3772256
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3772256
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "ec218ceb08b883f960f46d7bf157436912890908c0315cd3057b622f46f49a79",
+    "mtime": 1779218266.6960034
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "b7b2ff0181957390cc397bf865fdfda50e8b453eb54bb0312d8a6a237e7da323",
+    "mtime": 1779218266.6960034
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.9567957
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.9567957
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.9567957
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8snc.1CD": {
+    "hash": "de0bfd1bbe07e9b07c35b49d068d3f8902655f32fc50f587c193fe991b98aca0",
+    "mtime": 1779343099.021857
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.960807
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.960807
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.9567957
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.9594936
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\DoNotCopy.txt": {
+    "hash": "401eb93099b5b6a26a0d88dbc9cdaa07dd0bdd3b0d9d3228eb2c6562f7556fd6",
+    "mtime": 1779219412.9220605
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1CHelpIndex\\userDocs_ru.bin": {
+    "hash": "562d951af30d093404da67430aba911c3eceda200c2bd394105c55f80852f3a0",
+    "mtime": 1673106196.0
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1CHelpIndex\\userPostings_ru.bin": {
+    "hash": "a911212aa2e36fe930cb68b2102e10c70c2a4e42d238ccf6f224ed2779f03fcc",
+    "mtime": 1673106196.0
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1CHelpIndex\\userVocabulary_ru.bin": {
+    "hash": "ee24cfb4f6778a44a754244145bac90a241ccd28113ff859d5c0a920dbb899d9",
+    "mtime": 1673106196.0
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\cfgInfo.dat": {
+    "hash": "82a1cb97626355e9273f12039cc18ae274225d94cb03d80f7425130364b9d9a1",
+    "mtime": 1779302052.4782937
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\changes20260609000000.log.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780975579.5649445
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218735.4296474
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780988809.5406625
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218735.4296474
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\docIdAddInfoMain.dat": {
+    "hash": "aee49d1cb5b0ce567e30e102ac6d4c81fc788509b5ba59dadf9114630f1ab826",
+    "mtime": 1780975719.0551932
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\docIdAddInfoPart.dat": {
+    "hash": "7655723d19e07e558bb847ddd31ee6a2c523532f5a3c691f82273510fe81248b",
+    "mtime": 1780988084.5940318
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\docIdCompMain.dat": {
+    "hash": "a57ebf7121571c4a5992881c708e630ebe7da1946f9786830335e1c139a7ddb1",
+    "mtime": 1780975719.0501099
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\docIdCompPart.dat": {
+    "hash": "8cdb3a64b73e019e1c47bec810051cb034423624d46dd605aa2071dc5e867bd2",
+    "mtime": 1780988084.5940318
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\docIdIndexMain.dat": {
+    "hash": "bdddd779b1c0c09362058829cb1c05a01d9477f6e717be05d1664d86865f26a8",
+    "mtime": 1780975719.0524426
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\docIdIndexPart.dat": {
+    "hash": "37a0254e1dd91163a47afb371fe967f7b31692af21f345995fa7b252c8c9f122",
+    "mtime": 1780988084.5940318
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\hashUrlToDocIdDay.dat": {
+    "hash": "404dbeb54a8569b756bc0c696ce8dad89a517feedebca2ced7d7cca2146afff7",
+    "mtime": 1780988084.5940318
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\hashUrlToDocIdUrl.dat": {
+    "hash": "e85e888f7ebe7f8e601f3ab0eca74dc2a307362f6547cc83e0709f8f9754fb38",
+    "mtime": 1780975719.0999265
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\indexMain.bin": {
+    "hash": "2ffae00181465d73257c88c1f74b5c07ab1044572f1e629ab5de4c5d19cf93e9",
+    "mtime": 1780975746.9687772
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\indexPart3.bin": {
+    "hash": "d0f2f9f642453e61e673bbf470efb479967d056c0aa58ae5ae7750b03191501b",
+    "mtime": 1780988084.6120365
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\indexPartial.bin": {
+    "hash": "9e392286c0cb6d0eee6bbdea7cbe9fb42b0835a82e92b91cd907d93b1bd332eb",
+    "mtime": 1780987328.5761425
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\lastCheckoutDate.dat": {
+    "hash": "c5efdf70bb11243bb6f329b5210fbbd9349e2166d8c1b88d0a1fae5e0f81a05a",
+    "mtime": 1780988809.5406625
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\linkWeights.dat": {
+    "hash": "54ff8e7b2572e4252da2becda66d7f33bcaeb3483ff1574d3e32e41290b77e2d",
+    "mtime": 1779302152.256253
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\objectMain.dat": {
+    "hash": "7353be92be361ada39952fdad9eed4292778c0275248cea43ecb0fe91893db4b",
+    "mtime": 1780975746.9687772
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\objectPart3.dat": {
+    "hash": "1acb3879ac6f9ab8d40cfdcdb39e8dd17e8fd08ead72065cf045fa0212ef838d",
+    "mtime": 1780988084.6120365
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\objectPartial.dat": {
+    "hash": "34578fa8c71e2c181f1704b8423d33370b6ab1a7d4275df66ae93cae6b9e2b6b",
+    "mtime": 1780987328.5761425
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\removedDocIDs.dat": {
+    "hash": "658eac7bcbbbcab37ccf90c1fbf519807123f1471fef8951e27d97d493004da1",
+    "mtime": 1780987328.5482953
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\separatorMain.dat": {
+    "hash": "ec9f8c4bb47c6372157a886bb101a1b5e4e0638b4198608fa349ba0a13f74960",
+    "mtime": 1780975746.9705696
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\separatorPart3.dat": {
+    "hash": "ec6653532ff0a4a2a8fc9e0ef65885e68c45cd60d3d5245ae3f5d6097257ed7d",
+    "mtime": 1780988084.6120365
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\separatorPartial.dat": {
+    "hash": "c271975ccb43c84703b14a7cb507c44d9a6290246e041f270698e17b2a311140",
+    "mtime": 1780987328.5761425
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\sepCorrespondence.dat": {
+    "hash": "a48d766815001da1ad7bf365b391657fa40ee67a9bd6df5adeebc6f2eec78b48",
+    "mtime": 1780988084.5953715
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\useSeparationOfCompositeWords.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779302265.1149921
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\ver.dat": {
+    "hash": "438534ed30be4f6581360b8ac0a2fb6a8e492c72d624c84cf4fc1c1f8024f8c8",
+    "mtime": 1780988809.5383215
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\vocabularyMain.ind": {
+    "hash": "ffe64256f6f0ea357f0e760a3b002314b73bf30938017e3aa5f323258ddd37af",
+    "mtime": 1780975746.9687772
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\vocabularyPart3.dat": {
+    "hash": "43ef67fde712b5c0b5c8da84cc68849c66442ab783b5b59a89adbfc3440372cc",
+    "mtime": 1780988084.6120365
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\vocabularyPart3.ind": {
+    "hash": "c4cbfa8f1063c00feafd362847b319d1c425c0550975145dbceb236d034e39e9",
+    "mtime": 1780988084.6120365
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\vocabularyPartial.dat": {
+    "hash": "21e107368b4ade34120d818738989ffba53512abaf536b81da959c433f49e133",
+    "mtime": 1780987328.5761425
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\vocabularyPartial.ind": {
+    "hash": "70986a1f7437a0fee4a26b27be1ace611964e48f5423e13609a65242fc26222c",
+    "mtime": 1780987328.5761425
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\vocabularyWordsPart3.dat": {
+    "hash": "5fbeb5d2785e14da1b33ee7595f8bb452af6cf6c8c74e5604de1dec0afe1752d",
+    "mtime": 1780988084.6120365
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\vocabularyWordsPartial.dat": {
+    "hash": "79e946a3b9821b0ea993a159f3428e0172a19b846fc04fa2cbd98b685249fcdb",
+    "mtime": 1780987328.5761425
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8FTxt\\files_for_accept\\maxDocIdForAccept.dat": {
+    "hash": "b01186fe9434db956dafe6672ede29c26a58b801c5433b60bef378d86b9bafb6",
+    "mtime": 1780988084.5729418
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218884.51347
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8JobScheduler\\jobs.dat": {
+    "hash": "5c8d98054dfdad28716a0004f95098510517ef2c7a4d696b6f77f83bd7a0b718",
+    "mtime": 1780988856.2335892
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8JobScheduler\\jobs.dat.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218884.6426108
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "82b95b8e3ddaa9b191cc6182ef2d6465498eac4c85333194d44a3faa92999bbd",
+    "mtime": 1780975714.523034
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "903e120f07646159074be66f4d6bc858f4235058c702e3fb1237cd9fe2f7d482",
+    "mtime": 1779466925.9318504
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8Log\\20260525000000.lgp": {
+    "hash": "6121a08caacdfec2a164b26a2548041177bd03b78a72f6d7065b18968f763b54",
+    "mtime": 1779896698.9790125
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8Log\\20260601000000.lgp": {
+    "hash": "388165f6b44fd93854954b848137cc808e77b1c0fc13030d5b384e4699584e56",
+    "mtime": 1780375275.3916163
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase1\\1Cv8Log\\20260608000000.lgp": {
+    "hash": "11b6f2f5634fdfc42ad9fa727f39056d4db9a8c81f9a9d2e26ad7dd311498efc",
+    "mtime": 1781168910.631519
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8.1CD": {
+    "hash": "60a207e52d14534d2150c4d7b614367f875b269b21735bff3ec6cf0bce9133b6",
+    "mtime": 1781583114.328446
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5313337
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5405295
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5313337
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781555264.5500653
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5465407
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5475583
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5405295
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.541541
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781557729.2205074
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "0cd14bbd763ce3a355451a22b4bf9800d76b2c6409b2e5ad2a7a4d55d54a84bd",
+    "mtime": 1781582053.8533683
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase10\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "e5dabe8266604d22c3df8053557dae61c6c828921ba94fb496ef8839e37c759c",
+    "mtime": 1781583114.3304448
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8.1CD": {
+    "hash": "881d747263a005062ba2f99e1b7823b437b80038407b451e75a4382495edb047",
+    "mtime": 1781586038.9408433
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.9581015
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.966332
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.9570858
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781578896.9761074
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.972325
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.9733274
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.9673245
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.9673245
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781581564.0461612
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781581564.0461612
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "ccfde566116d3320b8ab12cb04cc5ac2323976a3da0c9a887b11e9c51b65b53e",
+    "mtime": 1781582070.5761302
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase11\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "1daa5c7d5dae7aa7766e7247c9892f15a781ad13a02d6bb1792bb4cd583433d6",
+    "mtime": 1781586038.9496157
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8.1CD": {
+    "hash": "ff64877c2773764d7018b4cff50b676877aee35f214492ca1a439d6d7af29386",
+    "mtime": 1779333225.9614823
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5522344
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5599532
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5512345
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778118428.567309
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5658703
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5658703
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5609696
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5609696
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778127670.8495207
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778127670.861092
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778127670.8495207
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118762.4433987
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8JobScheduler\\jobs.dat.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779265103.1714716
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "03d1806429f41039c0d658ca1c21f8482c76f1c890b0b4323a9f37695cb1fd5f",
+    "mtime": 1779265103.329549
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8Log\\20260504000000.lgp": {
+    "hash": "198938add835f17065e85b7ce42166d9a58462eda67741ccc5555b2ea3f6f9e1",
+    "mtime": 1778127948.7428799
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "75c6859b4d3b31b578bf5a7368afb3c46d93ad46640cb99f7ab1c2af75b1a156",
+    "mtime": 1778472259.9549637
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase16\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "4d8e1e57ee0e52929ebba10c9726fa55b47ba0a305a2587f8fe1aabdeb787650",
+    "mtime": 1779333225.966798
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8.1CD": {
+    "hash": "9db321694ad37532bdf97b542c54aedbec85ee903c5fcdf190592cc5e1678444",
+    "mtime": 1779336987.212938
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0388558
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0388558
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0388558
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778488156.0495152
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0495152
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0495152
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0388558
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0388558
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778529989.8686852
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "22b9e0ad8c29151e8f8cebba0fc6a4149a03d763f2f19b69e802bf9d4c226689",
+    "mtime": 1778530859.2641606
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "32518b9a6a7b8e10084a7274796b58bea545f57d290944aa764ddbd02c674157",
+    "mtime": 1778530886.213201
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase17\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "ea99c49c219dc0a10f8300c7632b5c8a146f0798b7323a11b42f0a0aef699b82",
+    "mtime": 1779336987.2257552
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8.1CD": {
+    "hash": "9a0ddce59a3a086af125f9cc105ea1d1dac4b47195b590d095558f016a517bb0",
+    "mtime": 1782290163.427679
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.314242
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.315246
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.3132427
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778530938.32323
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.3202505
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.3212445
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.315246
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.3162463
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1782288370.6076832
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778531290.5683177
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "f021928007a07b04cb1edc3052b48815c9ccda247149d2fba1c95e00ba015515",
+    "mtime": 1782287848.0609896
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "774e2eb1eb2cb13c435bf2d917d47e292d7ef13e5a9b1e66f5b7b0de6eef5c5a",
+    "mtime": 1778533242.424322
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase18\\1Cv8Log\\20260622000000.lgp": {
+    "hash": "cf9e9c21fcb6779b70eb1cae7d91e66e2e683da38afbf06c1a4090f94ced0df9",
+    "mtime": 1782290163.4350348
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8.1CD": {
+    "hash": "8c564b554ecdf1d6f044d55e216f5edac626439b0de251494d8d4c2b0dd60ab6",
+    "mtime": 1778534913.7650082
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7408714
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7418878
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.739858
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778533267.7496648
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7470388
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7470388
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7418878
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7429466
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533678.9583454
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533678.9583454
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "f62703bc89efd374f956c2886b1f2c8afc7c1ba07e7891206040fa9df2f5154f",
+    "mtime": 1778534907.3645885
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase19\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "061a33592db223e2a1d4d4429df0fbfb865704f4811ea2ff7c0b3bdbe4ac8e24",
+    "mtime": 1778534913.7670302
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8.1CD": {
+    "hash": "ee49364a9901aa400022df5425a9d2475f705bdeea754e55d006959a5d14dbe7",
+    "mtime": 1779268074.7622528
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8089824
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8100774
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8089824
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1779262945.8181186
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8151197
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8161182
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8100774
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.811118
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779263012.0526304
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779263012.060382
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779263012.0526304
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779263141.7366734
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "f4ba6fef45d5af340900db497635d3d9f5a8237db1e65ae1aa08817b1f84b24f",
+    "mtime": 1779263141.737682
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase2\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "2790fecdb3c9c2b24dd36f91418e749a66e0077ce45eda7a7e9db45c13e9b704",
+    "mtime": 1779268074.7678843
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8.1CD": {
+    "hash": "4023ce04600945c95a3637dc4e8bca7878b3386085601f84b9a23b409101afb1",
+    "mtime": 1778537555.944418
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9290261
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9364274
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9290261
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778534952.9450896
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9413104
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9426222
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9376917
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9376917
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778535988.0336428
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778535988.0336428
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "b42c4d0810af68c6c394991c8fdfee50b9a20c11d4d277ef74a27fd8a45b6119",
+    "mtime": 1778537532.2449584
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase20\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "896d117434ba480bc9a9033e170ac75cdebe38b6da28556d0944a3c8283c263d",
+    "mtime": 1778537555.9467783
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8.1CD": {
+    "hash": "33559b0de635bfa2e90a5b3622a57aad2e4c7bced7a1a3e11e5abbf5b22a3758",
+    "mtime": 1778542370.5051353
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9014475
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9026039
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9014475
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778537590.9094117
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9070165
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9070165
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9026039
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9036756
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778541126.6656334
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778539964.2168603
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "26de6d52371981c9b51fcee1e101a76ce88fbe308507b59b87c10ba9b6986703",
+    "mtime": 1778542314.321757
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase21\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "0d13262c8e8013eb53a7611b745d77bff61142f39abcbf72d8f2c6637eaa0ebc",
+    "mtime": 1778542370.507637
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8.1CD": {
+    "hash": "c3991b7e36c747b43a6de654214ad3d9d40e14358b0595885a1f896c95429413",
+    "mtime": 1778544997.259555
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.7972877
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.7982938
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.7972877
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778542394.8052921
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.8032954
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.8042922
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.7992952
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.7992952
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "d25ff0cf3015b44a715393862f56f431147d52f6d331c1dc263b80187c43e10a",
+    "mtime": 1778544940.9424758
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase22\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "f8b7e19bd640f8787646c7a5ad4922e7f23560ccd2a6385dea206012bf351de3",
+    "mtime": 1778544997.2610533
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8.1CD": {
+    "hash": "efe54928ee330921325ebd4e013b036ccfeab244fea4a0e3d7a8d785f17fe1c8",
+    "mtime": 1780370358.7232747
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6351507
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6351507
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6351507
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778567815.6394677
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6394677
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6394677
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6351507
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6351507
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778571281.2133522
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778571281.2133522
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "a48998ac8d93d90160c12ea0d9254732d6757ec8e211d2e39b9eec83bee9caa3",
+    "mtime": 1778571692.9242826
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "0fb397a8268520b2c39cbc010063f76cfeabc0947fc8f2a92874fd6fd796de0c",
+    "mtime": 1778732753.4705741
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase23\\1Cv8Log\\20260601000000.lgp": {
+    "hash": "f505a8e5602e88f9ef9bcadb33522abc9746630f2aff946f100dc8262bcf8ba6",
+    "mtime": 1780370358.7222748
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.4311767
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.432176
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.4311767
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1780370393.4407275
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.437961
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.437961
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.4331765
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.4331765
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1CHelpIndex\\userDocs_ru.bin": {
+    "hash": "562d951af30d093404da67430aba911c3eceda200c2bd394105c55f80852f3a0",
+    "mtime": 1673106196.0
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1CHelpIndex\\userPostings_ru.bin": {
+    "hash": "a911212aa2e36fe930cb68b2102e10c70c2a4e42d238ccf6f224ed2779f03fcc",
+    "mtime": 1673106196.0
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1CHelpIndex\\userVocabulary_ru.bin": {
+    "hash": "ee24cfb4f6778a44a754244145bac90a241ccd28113ff859d5c0a920dbb899d9",
+    "mtime": 1673106196.0
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\cfgInfo.dat": {
+    "hash": "82a1cb97626355e9273f12039cc18ae274225d94cb03d80f7425130364b9d9a1",
+    "mtime": 1780370535.4630544
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\changes20260602000000.log.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370825.8145237
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370437.9534621
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780459401.872095
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370437.9534621
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\docIdAddInfoMain.dat": {
+    "hash": "78d9108d267572c93cee1481315878a83993115c85277eb5015952ed6e9b980f",
+    "mtime": 1780370739.0122774
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\docIdAddInfoPart.dat": {
+    "hash": "cf59cafce05ca2a952ea74442f7e45686191030e423ed19f6905668b3700f55d",
+    "mtime": 1780459401.0207877
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\docIdCompMain.dat": {
+    "hash": "698d0a6fbeaaefa72dd9663dee23540ae72cfcc33ed5e0b758f9b3d814dd022c",
+    "mtime": 1780370739.0122774
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\docIdCompPart.dat": {
+    "hash": "2426627365c7040c46bca96958b55ab6817f1fcc5678c661cb39823b563f4b78",
+    "mtime": 1780459401.0207877
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\docIdIndexMain.dat": {
+    "hash": "663e803174a4c3b15b1b5fef56d08b0776ad243df09763fb4ee2c080cc985db9",
+    "mtime": 1780370739.0122774
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\docIdIndexPart.dat": {
+    "hash": "a63be2c58d7428b82519db0b55b56403657a06e0c9e94c1c03771b66544ceffe",
+    "mtime": 1780459401.0207877
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\hashUrlToDocIdDay.dat": {
+    "hash": "337bdd362215bff655a674376a4d4ce503635b61e69a52227acbaf655212976b",
+    "mtime": 1780459401.0207877
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\indexMain.bin": {
+    "hash": "f37a5ceb580693c51dfd707999ac36e2b91708f3ff56d6a3447ab353d3d21765",
+    "mtime": 1780370755.3939054
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\indexPart3.bin": {
+    "hash": "135945e6f8b0e5ee4a102cf3037854d4d4ba66af279ef57b5776e29f1219f90d",
+    "mtime": 1780459401.840399
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\indexPartial.bin": {
+    "hash": "47c7b43315884c793c08197ac91ccc716336d93430010570cece2653372392ae",
+    "mtime": 1780375559.5059443
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\lastCheckoutDate.dat": {
+    "hash": "6eac33ecff95e48193d64d3def4c1f2579db8d6e78379d4abf5a67e33eb85307",
+    "mtime": 1780459401.872095
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\linkWeights.dat": {
+    "hash": "54ff8e7b2572e4252da2becda66d7f33bcaeb3483ff1574d3e32e41290b77e2d",
+    "mtime": 1780370633.2647395
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\objectMain.dat": {
+    "hash": "9528d924bddfc81c5154219ba67732f343a344f14776445484b097bfdb288d06",
+    "mtime": 1780370755.3939054
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\objectPart3.dat": {
+    "hash": "d4663bbc83dfaaa8148282927e6bbc32e4270ce203d2d2418989fbc9181ee03a",
+    "mtime": 1780459401.840399
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\objectPartial.dat": {
+    "hash": "113dadc3058c38c59f149b1f8838956df0b2a9ff7aa620b90fa0cf1d6fe2d8c5",
+    "mtime": 1780375559.5059443
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\removedDocIDs.dat": {
+    "hash": "60107ddbcbb13c8c7c65a00f273b4f21afa81c9d97c260638dca921adb4f33c8",
+    "mtime": 1780459401.0207877
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\separatorMain.dat": {
+    "hash": "52c18b9b58498db27c4ccfd1e52fc4268954902fadc673acb3f1c907c58f7736",
+    "mtime": 1780370755.395299
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\separatorPart3.dat": {
+    "hash": "ab1ffcbc1b35eeef8a7b9d39d7a5eb321ea453a2ddc49de4dcd9bc49df7773d2",
+    "mtime": 1780459401.840399
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\separatorPartial.dat": {
+    "hash": "ba26ceb220cd29778c425154e1e155fb9a5c81b0739fe5726abc0367d8e92b25",
+    "mtime": 1780375559.5059443
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\sepCorrespondence.dat": {
+    "hash": "7dd8131ae2fa008620548975bc31bc623f8c0efe1d136a831220ca5a940aad33",
+    "mtime": 1780459401.026002
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\useSeparationOfCompositeWords.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370733.9419234
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\ver.dat": {
+    "hash": "438534ed30be4f6581360b8ac0a2fb6a8e492c72d624c84cf4fc1c1f8024f8c8",
+    "mtime": 1780459401.8604505
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\vocabularyMain.ind": {
+    "hash": "483341073b182c98f10e1bdf6d4c80486faef95fe4cd333f4025fdd4cf8cd37e",
+    "mtime": 1780370755.3939054
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\vocabularyPart3.dat": {
+    "hash": "a9836f6a8e59d490f5b2318074531abf6b65e83b0ba4f647fd0c1134422716fd",
+    "mtime": 1780459401.840399
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\vocabularyPart3.ind": {
+    "hash": "faa437ca1ec4ddeab6aa62f195538822a9c0ba51890d32628dde6020ea9abe82",
+    "mtime": 1780459401.840399
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\vocabularyPartial.dat": {
+    "hash": "3a4acae5041a559ee7cbca40b7a71d0681cde874e8b12a940ad8187180519241",
+    "mtime": 1780375559.5059443
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\vocabularyPartial.ind": {
+    "hash": "72fa2744f64d90108e6e31da168a599a220bb080b4db968e76306dee9346302f",
+    "mtime": 1780375559.5059443
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\vocabularyWordsPart3.dat": {
+    "hash": "863ffefbd6a6ff44a02f4c6f959d534783827dd429c95011efdabe46a1e312a6",
+    "mtime": 1780459401.840399
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\vocabularyWordsPartial.dat": {
+    "hash": "f64e4641ae4701f8986de5c0ab39d76b97460d68285fdbd7f4af7db3180a9896",
+    "mtime": 1780375559.5059443
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8FTxt\\files_for_accept\\maxDocIdForAccept.dat": {
+    "hash": "09dd52a9d23b2e2ab1ae20c1d0e809ee61906af8d7e38332582d0fd743bdf6ad",
+    "mtime": 1780459400.9782276
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370596.7088592
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8JobScheduler\\jobs.dat": {
+    "hash": "b1105baef5239e62fcbed97f859e66b289b485d67285b91feb55c19651d2412b",
+    "mtime": 1780459403.7468975
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8JobScheduler\\jobs.dat.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370596.7422378
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "b4db2fc5692b9940b05b73c07a5e491765e174e63b8042689c98854224d9cd0a",
+    "mtime": 1780383142.3980124
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase3\\1Cv8Log\\20260601000000.lgp": {
+    "hash": "dd2c532b4a89723513bd461fbef619cd7fc06d89ee45d52f66ba6d59ebc8a615",
+    "mtime": 1780459403.7309957
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4323082
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4401226
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4323082
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8snc.1CD": {
+    "hash": "9fe2df51c60e27cd14926017277d30526c4eaca6d226c54e39964611e5f7ef44",
+    "mtime": 1779218591.5506244
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4637938
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.472795
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4401226
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4401226
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\DoNotCopy.txt": {
+    "hash": "c847a556d987eefad82670c0934adb612973ed3bca86ccd35156062dc3a09b3f",
+    "mtime": 1771570488.5642147
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1CHelpIndex\\userDocs_ru.bin": {
+    "hash": "562d951af30d093404da67430aba911c3eceda200c2bd394105c55f80852f3a0",
+    "mtime": 1673106196.0
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1CHelpIndex\\userPostings_ru.bin": {
+    "hash": "a911212aa2e36fe930cb68b2102e10c70c2a4e42d238ccf6f224ed2779f03fcc",
+    "mtime": 1673106196.0
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1CHelpIndex\\userVocabulary_ru.bin": {
+    "hash": "ee24cfb4f6778a44a754244145bac90a241ccd28113ff859d5c0a920dbb899d9",
+    "mtime": 1673106196.0
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\cfgInfo.dat": {
+    "hash": "82a1cb97626355e9273f12039cc18ae274225d94cb03d80f7425130364b9d9a1",
+    "mtime": 1771566271.9857051
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\changes20260520000000.log.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779212513.1461878
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565866.5394778
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779213726.839458
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565866.5394778
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\docIdAddInfoMain.dat": {
+    "hash": "dae9f3774a43aeb3897e509c61413494b405db1b2e049dfdd55c5dfe71bec8a7",
+    "mtime": 1779213684.112187
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\docIdCompMain.dat": {
+    "hash": "baa0301b823e31a23953a0cfe6369c4fe036dea2b0022a7c109eb9de834a020f",
+    "mtime": 1779213684.1007495
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\docIdIndexMain.dat": {
+    "hash": "41367940dc26d41f06b37e33217afcdce17d4bd872f3fbfdb3fa93d8a10721c9",
+    "mtime": 1779213684.1007495
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\hashUrlToDocIdDay.dat": {
+    "hash": "049902f2980e2d6c49c7d1f55251b28aaffdc366eba1588edd78798ebdd31893",
+    "mtime": 1779213670.326956
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\hashUrlToDocIdUrl.dat": {
+    "hash": "c3bdb4efbd68c9e45d095d745122267ca4b11ecbdd3f5225e0eacb19e903c348",
+    "mtime": 1779213684.1476624
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\indexMain.bin": {
+    "hash": "3eef12189226521223304e6430f20d926e2d138e71dc584708393f2a27c76c52",
+    "mtime": 1779213726.7309585
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\lastCheckoutDate.dat": {
+    "hash": "9ba79dcf70aca0ece08840b881682b53680736abf39980a4c337fbd5de59c185",
+    "mtime": 1779213684.051982
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\linkWeights.dat": {
+    "hash": "54ff8e7b2572e4252da2becda66d7f33bcaeb3483ff1574d3e32e41290b77e2d",
+    "mtime": 1771566276.7540011
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\objectMain.dat": {
+    "hash": "f0beb7e2688d6e6532733943d36168603972f8a4b28286e8179eacfab6559a34",
+    "mtime": 1779213726.7309585
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\separatorMain.dat": {
+    "hash": "fdd5e91b2fe801a585f1b28f35462272af9c8e11eb68409d9aa0cb45d2f0ba83",
+    "mtime": 1779213726.7309585
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\sepCorrespondence.dat": {
+    "hash": "7dd8131ae2fa008620548975bc31bc623f8c0efe1d136a831220ca5a940aad33",
+    "mtime": 1779213680.527879
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\useSeparationOfCompositeWords.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771566318.5832407
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\ver.dat": {
+    "hash": "438534ed30be4f6581360b8ac0a2fb6a8e492c72d624c84cf4fc1c1f8024f8c8",
+    "mtime": 1779213684.051982
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\vocabularyMain.ind": {
+    "hash": "4183ea32a89e797f11dc3df06b87eba490334f9801cadab9156e986cd54190c6",
+    "mtime": 1779213726.7309585
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8FTxt\\files_for_accept\\maxDocIdForAccept.dat": {
+    "hash": "ad84607382c13fe86303c01f669b7ba5d6a84d29cbec9124c96ad14776669e1d",
+    "mtime": 1779213665.786602
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779212491.4444468
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771566102.0343444
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8JobScheduler\\jobs.dat": {
+    "hash": "a36f44dc4595158cff0db0b32b7ca104d73023fd955315c9292586a35312fc0c",
+    "mtime": 1779217987.625129
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8JobScheduler\\jobs.dat.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771566102.0660365
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "7b897c802f68100e3bff27c8d906b411215dead220db059a18328f99518850e2",
+    "mtime": 1779218668.8775513
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8Log\\20260216000000.lgp": {
+    "hash": "8d78afdde82a13efa589180eae2038a07e4f14143df0dc115c3ab84cad54939c",
+    "mtime": 1771772618.2363212
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8Log\\20260223000000.lgp": {
+    "hash": "d674690cc575fcb4002d7baa6aca7d4a0f30d89c06aafc0a681b0b144f4b9cba",
+    "mtime": 1771868063.8973584
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8Log\\20260302000000.lgp": {
+    "hash": "8a7003d4b4f2e1da4d54a35528d2a21b1b80f1e99bbd24b3f85e35aff67862a3",
+    "mtime": 1772863008.616117
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8Log\\20260309000000.lgp": {
+    "hash": "1a8104f0b67f1afc470e6dac37d3015c75b6c9c8212ea78dced00fe1f4ed7631",
+    "mtime": 1773063972.5936768
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8Log\\20260316000000.lgp": {
+    "hash": "4969a39ef4b40317180b0db0cde2e48c1fd6ff2e38e74a83e4915e1b0203e4bf",
+    "mtime": 1774034522.8703053
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase4\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "73d9bcebcc0dedc296584f1d464828b58b234d60fe4c32c4ba25c934e20a94f6",
+    "mtime": 1779218680.45692
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8.1CD": {
+    "hash": "aa49c9a937d90fe9adfbcf3bf68e4104cac686444194d06323758e01195d6d59",
+    "mtime": 1781538775.967695
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6704102
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6704102
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6704102
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781535727.6852603
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6837032
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6837032
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6704102
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6704102
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781537130.4398663
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781537130.4353042
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "34748c3db3c5c2a22470d3750c01c1cac59030db25372bb4934fc4fc664fb39c",
+    "mtime": 1781538558.2760062
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase5\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "171612317af570323b0a1bf82265b80fe40fdc3f416229be6ba030ba6fd9c5f9",
+    "mtime": 1781538775.967695
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8.1CD": {
+    "hash": "0c6bfa6c88f7154e2dad57d45200f52c897c7eb85ab5281fc2fe202d4b96b78b",
+    "mtime": 1781574240.3467183
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4744928
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4913585
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4744928
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781535792.503885
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4913585
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4913585
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4913585
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4913585
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535810.5833778
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535810.5930965
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535810.5833778
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "f4f61ed33d9e5eb35bc2135075c8cfcda042f8012ac84e5bb496beb39a4e82bf",
+    "mtime": 1781560293.7406716
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase6\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "30fb55b16e7506fa800986cfde3ad6ad9e8c9a6e98716d16549a662b130f7aff",
+    "mtime": 1781574240.3477137
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8.1CD": {
+    "hash": "1a7277413524ab48a054f65664915d66968a615289b71507d6cb191086adf99b",
+    "mtime": 1781545729.035103
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.8566182
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.864437
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.8566182
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781542875.8739228
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.8706467
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.8721395
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.864437
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.864437
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781543506.9302318
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "fe5e8213594dff9917b0e51a7a436e9f6349ba09409a0a1cfbfd2293ba516214",
+    "mtime": 1781545678.7364042
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase7\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "1ad0e23e4bddac413e285d4a32f558325feb4f20f60d95726d28013f559d543d",
+    "mtime": 1781545729.0379498
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8.1CD": {
+    "hash": "df279a9c5347632442158f801695d218ac5741256538b1641d3ba6ad51ded010",
+    "mtime": 1781551582.4506862
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5834632
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5834632
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5834632
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781546733.5961866
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5961866
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5961866
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5834632
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5834632
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781548095.8707383
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "858a6fd7f89229166b8cb12f89b25863a3c1e5f53bc0a6f546c37390f2f93c04",
+    "mtime": 1781551545.9624379
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase8\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "f22c7872d46927ce36089137880458ac494024c42deeb1a0484e4a72d3ccfa38",
+    "mtime": 1781551582.4506862
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8.1CD": {
+    "hash": "bb99a1134774d88ca26dcde6e648b8c572071024f05d41ebf5afffeac551e187",
+    "mtime": 1781554296.8788476
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.9200118
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.928555
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.9200118
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781551604.9310715
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.9310715
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.9310715
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.928555
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.928555
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781552598.9897861
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "70b61bac4b130737a1552817aaaefb3a1f93b5741135aedab833bfecd08418fd",
+    "mtime": 1781554275.219737
+  },
+  "C:\\Users\\Егор\\Documents\\InfoBase9\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "20d5a18e836f7e607f9022377c260bc79374efecd22ca423a0dd43e926c58855",
+    "mtime": 1781554296.8808525
+  },
+  "C:\\Users\\Егор\\Documents\\My Web Sites\\WebSite1\\bkg-blu.jpg": {
+    "hash": "b1a29792ecad947f16504d810e2ff216208565bcc9407a33f9f077c3ca42ddd2",
+    "mtime": 1559529338.0
+  },
+  "C:\\Users\\Егор\\Documents\\My Web Sites\\WebSite1\\iis.png": {
+    "hash": "9d0f3359cb32400f3763222dfa3b429ef85b778186a91d7c15eeca749ad285f5",
+    "mtime": 1559529338.0
+  },
+  "C:\\Users\\Егор\\Documents\\My Web Sites\\WebSite1\\iisstart.htm": {
+    "hash": "acd946343893c33d15a1e82e6fe4c8d5f6518518bfb7d04f70b0b8bdb3775356",
+    "mtime": 1559529338.0
+  },
+  "C:\\Users\\Егор\\Documents\\My Web Sites\\WebSite1\\msweb-brand.png": {
+    "hash": "0dab61d6936f5cd8962139652f3d4d3c5a676df6473cceb1169ce30034c6094d",
+    "mtime": 1559529338.0
+  },
+  "C:\\Users\\Егор\\Documents\\My Web Sites\\WebSite1\\w-brand.png": {
+    "hash": "4121d2360b3cf978191759200805023dc9c15f8da2de4772e1efac1c87faaca4",
+    "mtime": 1559529338.0
+  },
+  "C:\\Users\\Егор\\Documents\\Toad Data Modeler Freeware\\Pictures\\export.bmp": {
+    "hash": "7ee971035f081677e7b7fd5c4fc391818d3924b66d644d4bc7b72fee40aaacdb",
+    "mtime": 1782061859.9060724
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\,LMKNZJNDVZDB.png": {
+    "hash": "ecf5f33f1d46e3e97f000c15395385cb7ca97c99fde226c59fc1993fa81e8833",
+    "mtime": 1775094499.1770725
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\,zx kjdnzhjvbndfhvbdlv.png": {
+    "hash": "80e8b169eb3dcd4b19b0e0026fc55c35cf0fd8befe37c45f12298d48ba1e9c56",
+    "mtime": 1775094533.3493435
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\2ffe3ea94ca4055a4c0dfda0a05219e5.png": {
+    "hash": "235a06b63b5daf95a3e845e65efd6afa0b2bac9ad04bee83e44e66be6e484dfc",
+    "mtime": 1771952529.9061832
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\92d7ff88798e01f4e8368ebb885df0a0.jpg": {
+    "hash": "f6a62a4b1c7ca43734562615a934fe875d226e17f151be6dfae33db23080a6f6",
+    "mtime": 1774394915.353088
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\b35bd1a9ccaeb688c98528755d90611a.jpg": {
+    "hash": "12d73374c743281d248c99d5fbc01ba140c6021ffa5e4b487281586a8867175e",
+    "mtime": 1774393985.7523763
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\f10303b9aa32be0374b5e0cbfb18307b.jpg": {
+    "hash": "91c4961598c5eb94188eab02c2628ddbd0ca3b05f67b87b819a769f1f1f73fea",
+    "mtime": 1774393879.260094
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\HBJNHBVHDFVN JFDKVMFDV.png": {
+    "hash": "f71b1f0213ece21066635e320352df88181fc030727403e10bda306c3f7152b2",
+    "mtime": 1775094666.1434488
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\kmfjkznjznb.png": {
+    "hash": "c20b02bb6d95a0dc71e5b084167a6deb3fca09dbfebb89951a29a1735959f0fa",
+    "mtime": 1775093396.9318635
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\kmjnuhbsHSBDVDSV.png": {
+    "hash": "10a21f66057b5061df248cf3b1880fc2bc641d1bbdc500e2e22b9ffde56cfcc2",
+    "mtime": 1775094555.8217807
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\KMKNZJDFNVHLZDB.png": {
+    "hash": "be080303d1bd2997589647450ebdf5ed04590c754d9d9dd247e06f6a37b59110",
+    "mtime": 1775094398.705165
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\KMNJKVNSHDVBDSVDSVD.png": {
+    "hash": "4cfc783df98e333d3e63ad290c7da2481691a22a8508213b912e21e8e62858f5",
+    "mtime": 1775094593.7356122
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\KnvHbcHbCVdsv.png": {
+    "hash": "766ff8f5edb914105f43fae20c3c2227ceb185acf0d9da57fa74856494f52857",
+    "mtime": 1775094370.7961206
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\L,LKMNJDBVGHSBVDHV.png": {
+    "hash": "540b9e942abef517f54d2b05cae05eba443d9500deaf24fe656d82edf98fc069",
+    "mtime": 1775094637.2123966
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\MEJnuierbgvnG.png": {
+    "hash": "2d277dd78e109655c20197258cbb9318c1d231442ab35905ccb6266176b45678",
+    "mtime": 1775094342.6686542
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\mknHBvgsvvdv.png": {
+    "hash": "e82e408d614b456ccc62a33c0536632ea2c20fdce70a0700fd1b799e34291676",
+    "mtime": 1775093424.0284412
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\MKZNDJBVDZFZVFBGBN.png": {
+    "hash": "ec88025d91107f378b032c70d6a594c1811de30c9581a227cd3cd9f9e82dc22b",
+    "mtime": 1775094477.0646427
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\MVKJdsnvHJ dshv dsv V.png": {
+    "hash": "7d1c9c914be260478aa6dc7fee37c5e10ba53c3171bf4a34b5a5b4f8edffca71",
+    "mtime": 1775094445.675578
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\n dh cghDScDVD.png": {
+    "hash": "bc1f115f0d905ebb5a4d1a7d3b66e3b828e0a919c7cff2852063dc3e73c8a5d6",
+    "mtime": 1775093433.9450312
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\NJZHVFZLVFB.png": {
+    "hash": "ad35c49538bdcefd2360656b2b7cd7ed51ecbbffd2eef469ab1af8832fb59046",
+    "mtime": 1775094280.5249648
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\VNJZBVHJDBV.png": {
+    "hash": "cd89eee73384d78602bc683cbc2941678e5601022fa587afd9813165e96deac8",
+    "mtime": 1775094256.2704935
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\ZJVNZDJKVNDVBFBNGBN.png": {
+    "hash": "772fd77c52a55223040de51a6b3bb69ea90e0c5f91ab739c44de545329790c33",
+    "mtime": 1775094317.2957244
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\бдьлятаияяи.png": {
+    "hash": "29b1fdb559166a233367588d4f5dca15edd480146a554a405f0e683f85f02c6c",
+    "mtime": 1775093082.1113203
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\в вививива.png": {
+    "hash": "0d65649b40388221694e5586cc4a0350e8af01c2ba57bb54661ba71a010cba00",
+    "mtime": 1771952723.3486836
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\вфииыииа.png": {
+    "hash": "2eebc1b62d98d1b07d4f0d9d8a99bf74e717190a98cfd1c88ca282531ec7378b",
+    "mtime": 1771952798.217589
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\дтыломиДЫВОмиывм.png": {
+    "hash": "d26074891edd198869578b72aa859128f20a6b49126a3efe604b3fec138cab43",
+    "mtime": 1775128412.1019895
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\дуьплутпу.png": {
+    "hash": "a1e2fbb18eb19ed7dce2034a9c402650fc988765c2c944b7155a8ce9b93f1e09",
+    "mtime": 1771952696.5082197
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\йвйы.png": {
+    "hash": "fa8954b45ec75d20eef9cb51b1f7c586260a52f68b5a79cb2755d0e80f548de0",
+    "mtime": 1771952595.823442
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\красн.png": {
+    "hash": "34c214f53827c1b8719ef8259f5fd9792496f3646ab64b5978ab0f1155a46335",
+    "mtime": 1775092617.7675352
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\л ялодавимяи.png": {
+    "hash": "a26b8c95c69a06548afcd464fd156f6f8593fa326e340f7f9a0ec264fd9af6a4",
+    "mtime": 1775092951.8629124
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\лдитиыжиыки.png": {
+    "hash": "7e8ba345c29f4e6b4e28fec2d229074232a01b21be5f39e30edd9e47e5d8881b",
+    "mtime": 1775092795.8957832
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\лутоутмуоиу.png": {
+    "hash": "c0d1304ced22f679581fbb6dc0e36896866baff94756d2a7626091846d79e49b",
+    "mtime": 1771952836.3031635
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\маикпи.png": {
+    "hash": "e8679f92f28a1f7e02feff45518c047f6baaa15a943500aeaf944cfd2a6894d5",
+    "mtime": 1771952664.1394854
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\мвимва.png": {
+    "hash": "dac61a159b787d8d8f2a4d004ee089adac0dc79dca2721af55b7df9d3a440738",
+    "mtime": 1771952558.29155
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\сфафвымымв.png": {
+    "hash": "8573cab9cb7636a210176d8affa1e6e297f0ea6bb34a240114aacf9532baa748",
+    "mtime": 1775128370.911287
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\толДИРВИмвм.png": {
+    "hash": "4ab851033344faa5fd5308be2cb4d1c5a2de2ec639ae4220ec57234619209b6f",
+    "mtime": 1775093111.1220796
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\ффмффваиви.png": {
+    "hash": "f798047bc8ac0a59fb03dea8510be7f936f6e1c02db20cf407fe116e4bc13040",
+    "mtime": 1775092836.7373385
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\черн.png": {
+    "hash": "1a12b3962c753fa2114726ffd5dcd5b77f004d324e22759dd8e0fd1dd2c8464e",
+    "mtime": 1775092586.448235
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\ывмывмиымывсмы.png": {
+    "hash": "a670f9b98e0320d93be97288ae7df4f9d4d7bf0f7279760664cdffabf0b91110",
+    "mtime": 1775127826.0806055
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\ытолыитмолфм.png": {
+    "hash": "adc156103cdd308cf776c1a3ecf6fbd334c462059762f81953dcdcb9805843c6",
+    "mtime": 1775092907.8518465
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\ь ол ысрдм.png": {
+    "hash": "a322ed1f5906c5e10ae3253e44922cdd0e5a8784cbc78079a4ddc986444470d1",
+    "mtime": 1775093020.3068993
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\ьилдтиолфиваиои.png": {
+    "hash": "7181ba1a967d4e05fb3f424dc39d6a127dce92c3cb63c615e9355b50a3fdee6d",
+    "mtime": 1775092992.5020063
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\ьосывс.png": {
+    "hash": "80e99749202ac5ae0daf0d5de730162cca87a5587a6ffe45c40ab250e480f017",
+    "mtime": 1771952635.6102808
+  },
+  "C:\\Users\\Егор\\Documents\\пнг\\я я яль пяаи.png": {
+    "hash": "af7ba7e9f365c05e93de36f11e1f39c1a6660db5e6da97f6c28a8a7ebeda3b9d",
+    "mtime": 1775092865.5470974
+  },
+  "C:/Users/Егор/Documents\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779216406.492319
+  },
+  "C:/Users/Егор/Documents\\Database1.accdb": {
+    "hash": "8ca33733bc652c6e61fde067474ed7dca53b58a105d2510fe5b9f1bb21250ef7",
+    "mtime": 1778733507.4077253
+  },
+  "C:/Users/Егор/Documents\\Database2.accdb": {
+    "hash": "59aa2d2fa129bae6440da417308242775fdd954ddfa5bdc7f2221c1383017b90",
+    "mtime": 1780868364.55926
+  },
+  "C:/Users/Егор/Documents\\desktop.ini": {
+    "hash": "cafec240d998e4b6e92ad1329cd417e8e9cbd73157488889fd93a542de4a4844",
+    "mtime": 1760186976.9084592
+  },
+  "C:/Users/Егор/Documents\\IISExpress\\config\\applicationhost.config": {
+    "hash": "7d8ee1aff50282aa795475de1297dc880061d50f16a434b48147799ac4e19b55",
+    "mtime": 1559529340.0
+  },
+  "C:/Users/Егор/Documents\\IISExpress\\config\\aspnet.config": {
+    "hash": "3145ba33cbfd51fb664f59e5ff413b9eccfd06c25a94c6edd3ce94edfbd1a96b",
+    "mtime": 1559529340.0
+  },
+  "C:/Users/Егор/Documents\\IISExpress\\config\\redirection.config": {
+    "hash": "fc14cf7ed10df61cd9e94d530796b9c6e5f89b09ac977f42a2a496950a3da6db",
+    "mtime": 1559529340.0
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8.1CD": {
+    "hash": "9d8bfe7d327fbf72e0de5722f06211a7340454c7a5ff6450c37b79000ca3aedb",
+    "mtime": 1779218266.693102
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3686545
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3686545
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3686545
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "ec218ceb08b883f960f46d7bf157436912890908c0315cd3057b622f46f49a79",
+    "mtime": 1779218266.6960034
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "b7b2ff0181957390cc397bf865fdfda50e8b453eb54bb0312d8a6a237e7da323",
+    "mtime": 1779218266.6960034
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1779218113.3772256
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3772256
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3772256
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3772256
+  },
+  "C:/Users/Егор/Documents\\InfoBase\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218113.3772256
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1CHelpIndex\\userDocs_ru.bin": {
+    "hash": "562d951af30d093404da67430aba911c3eceda200c2bd394105c55f80852f3a0",
+    "mtime": 1673106196.0
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1CHelpIndex\\userPostings_ru.bin": {
+    "hash": "a911212aa2e36fe930cb68b2102e10c70c2a4e42d238ccf6f224ed2779f03fcc",
+    "mtime": 1673106196.0
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1CHelpIndex\\userVocabulary_ru.bin": {
+    "hash": "ee24cfb4f6778a44a754244145bac90a241ccd28113ff859d5c0a920dbb899d9",
+    "mtime": 1673106196.0
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.9567957
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.9567957
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.9567957
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\cfgInfo.dat": {
+    "hash": "82a1cb97626355e9273f12039cc18ae274225d94cb03d80f7425130364b9d9a1",
+    "mtime": 1779302052.4782937
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\changes20260609000000.log.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780975579.5649445
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218735.4296474
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780988809.5406625
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218735.4296474
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\docIdAddInfoMain.dat": {
+    "hash": "aee49d1cb5b0ce567e30e102ac6d4c81fc788509b5ba59dadf9114630f1ab826",
+    "mtime": 1780975719.0551932
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\docIdAddInfoPart.dat": {
+    "hash": "7655723d19e07e558bb847ddd31ee6a2c523532f5a3c691f82273510fe81248b",
+    "mtime": 1780988084.5940318
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\docIdCompMain.dat": {
+    "hash": "a57ebf7121571c4a5992881c708e630ebe7da1946f9786830335e1c139a7ddb1",
+    "mtime": 1780975719.0501099
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\docIdCompPart.dat": {
+    "hash": "8cdb3a64b73e019e1c47bec810051cb034423624d46dd605aa2071dc5e867bd2",
+    "mtime": 1780988084.5940318
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\docIdIndexMain.dat": {
+    "hash": "bdddd779b1c0c09362058829cb1c05a01d9477f6e717be05d1664d86865f26a8",
+    "mtime": 1780975719.0524426
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\docIdIndexPart.dat": {
+    "hash": "37a0254e1dd91163a47afb371fe967f7b31692af21f345995fa7b252c8c9f122",
+    "mtime": 1780988084.5940318
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\files_for_accept\\maxDocIdForAccept.dat": {
+    "hash": "b01186fe9434db956dafe6672ede29c26a58b801c5433b60bef378d86b9bafb6",
+    "mtime": 1780988084.5729418
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\hashUrlToDocIdDay.dat": {
+    "hash": "404dbeb54a8569b756bc0c696ce8dad89a517feedebca2ced7d7cca2146afff7",
+    "mtime": 1780988084.5940318
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\hashUrlToDocIdUrl.dat": {
+    "hash": "e85e888f7ebe7f8e601f3ab0eca74dc2a307362f6547cc83e0709f8f9754fb38",
+    "mtime": 1780975719.0999265
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\indexMain.bin": {
+    "hash": "2ffae00181465d73257c88c1f74b5c07ab1044572f1e629ab5de4c5d19cf93e9",
+    "mtime": 1780975746.9687772
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\indexPart3.bin": {
+    "hash": "d0f2f9f642453e61e673bbf470efb479967d056c0aa58ae5ae7750b03191501b",
+    "mtime": 1780988084.6120365
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\indexPartial.bin": {
+    "hash": "9e392286c0cb6d0eee6bbdea7cbe9fb42b0835a82e92b91cd907d93b1bd332eb",
+    "mtime": 1780987328.5761425
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\lastCheckoutDate.dat": {
+    "hash": "c5efdf70bb11243bb6f329b5210fbbd9349e2166d8c1b88d0a1fae5e0f81a05a",
+    "mtime": 1780988809.5406625
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\linkWeights.dat": {
+    "hash": "54ff8e7b2572e4252da2becda66d7f33bcaeb3483ff1574d3e32e41290b77e2d",
+    "mtime": 1779302152.256253
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\objectMain.dat": {
+    "hash": "7353be92be361ada39952fdad9eed4292778c0275248cea43ecb0fe91893db4b",
+    "mtime": 1780975746.9687772
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\objectPart3.dat": {
+    "hash": "1acb3879ac6f9ab8d40cfdcdb39e8dd17e8fd08ead72065cf045fa0212ef838d",
+    "mtime": 1780988084.6120365
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\objectPartial.dat": {
+    "hash": "34578fa8c71e2c181f1704b8423d33370b6ab1a7d4275df66ae93cae6b9e2b6b",
+    "mtime": 1780987328.5761425
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\removedDocIDs.dat": {
+    "hash": "658eac7bcbbbcab37ccf90c1fbf519807123f1471fef8951e27d97d493004da1",
+    "mtime": 1780987328.5482953
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\separatorMain.dat": {
+    "hash": "ec9f8c4bb47c6372157a886bb101a1b5e4e0638b4198608fa349ba0a13f74960",
+    "mtime": 1780975746.9705696
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\separatorPart3.dat": {
+    "hash": "ec6653532ff0a4a2a8fc9e0ef65885e68c45cd60d3d5245ae3f5d6097257ed7d",
+    "mtime": 1780988084.6120365
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\separatorPartial.dat": {
+    "hash": "c271975ccb43c84703b14a7cb507c44d9a6290246e041f270698e17b2a311140",
+    "mtime": 1780987328.5761425
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\sepCorrespondence.dat": {
+    "hash": "a48d766815001da1ad7bf365b391657fa40ee67a9bd6df5adeebc6f2eec78b48",
+    "mtime": 1780988084.5953715
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\useSeparationOfCompositeWords.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779302265.1149921
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\ver.dat": {
+    "hash": "438534ed30be4f6581360b8ac0a2fb6a8e492c72d624c84cf4fc1c1f8024f8c8",
+    "mtime": 1780988809.5383215
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\vocabularyMain.ind": {
+    "hash": "ffe64256f6f0ea357f0e760a3b002314b73bf30938017e3aa5f323258ddd37af",
+    "mtime": 1780975746.9687772
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\vocabularyPart3.dat": {
+    "hash": "43ef67fde712b5c0b5c8da84cc68849c66442ab783b5b59a89adbfc3440372cc",
+    "mtime": 1780988084.6120365
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\vocabularyPart3.ind": {
+    "hash": "c4cbfa8f1063c00feafd362847b319d1c425c0550975145dbceb236d034e39e9",
+    "mtime": 1780988084.6120365
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\vocabularyPartial.dat": {
+    "hash": "21e107368b4ade34120d818738989ffba53512abaf536b81da959c433f49e133",
+    "mtime": 1780987328.5761425
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\vocabularyPartial.ind": {
+    "hash": "70986a1f7437a0fee4a26b27be1ace611964e48f5423e13609a65242fc26222c",
+    "mtime": 1780987328.5761425
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\vocabularyWordsPart3.dat": {
+    "hash": "5fbeb5d2785e14da1b33ee7595f8bb452af6cf6c8c74e5604de1dec0afe1752d",
+    "mtime": 1780988084.6120365
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8FTxt\\vocabularyWordsPartial.dat": {
+    "hash": "79e946a3b9821b0ea993a159f3428e0172a19b846fc04fa2cbd98b685249fcdb",
+    "mtime": 1780987328.5761425
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218884.51347
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8JobScheduler\\jobs.dat": {
+    "hash": "5c8d98054dfdad28716a0004f95098510517ef2c7a4d696b6f77f83bd7a0b718",
+    "mtime": 1780988856.2335892
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8JobScheduler\\jobs.dat.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218884.6426108
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "82b95b8e3ddaa9b191cc6182ef2d6465498eac4c85333194d44a3faa92999bbd",
+    "mtime": 1780975714.523034
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "903e120f07646159074be66f4d6bc858f4235058c702e3fb1237cd9fe2f7d482",
+    "mtime": 1779466925.9318504
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8Log\\20260525000000.lgp": {
+    "hash": "6121a08caacdfec2a164b26a2548041177bd03b78a72f6d7065b18968f763b54",
+    "mtime": 1779896698.9790125
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8Log\\20260601000000.lgp": {
+    "hash": "388165f6b44fd93854954b848137cc808e77b1c0fc13030d5b384e4699584e56",
+    "mtime": 1780375275.3916163
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8Log\\20260608000000.lgp": {
+    "hash": "11b6f2f5634fdfc42ad9fa727f39056d4db9a8c81f9a9d2e26ad7dd311498efc",
+    "mtime": 1781168910.631519
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8snc.1CD": {
+    "hash": "de0bfd1bbe07e9b07c35b49d068d3f8902655f32fc50f587c193fe991b98aca0",
+    "mtime": 1779343099.021857
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.960807
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.960807
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.9567957
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779218699.9594936
+  },
+  "C:/Users/Егор/Documents\\InfoBase1\\DoNotCopy.txt": {
+    "hash": "401eb93099b5b6a26a0d88dbc9cdaa07dd0bdd3b0d9d3228eb2c6562f7556fd6",
+    "mtime": 1779219412.9220605
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8.1CD": {
+    "hash": "60a207e52d14534d2150c4d7b614367f875b269b21735bff3ec6cf0bce9133b6",
+    "mtime": 1781583114.328446
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5313337
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5405295
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5313337
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781557729.2205074
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "0cd14bbd763ce3a355451a22b4bf9800d76b2c6409b2e5ad2a7a4d55d54a84bd",
+    "mtime": 1781582053.8533683
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "e5dabe8266604d22c3df8053557dae61c6c828921ba94fb496ef8839e37c759c",
+    "mtime": 1781583114.3304448
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781555264.5500653
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5465407
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5475583
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.5405295
+  },
+  "C:/Users/Егор/Documents\\InfoBase10\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781555264.541541
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8.1CD": {
+    "hash": "881d747263a005062ba2f99e1b7823b437b80038407b451e75a4382495edb047",
+    "mtime": 1781586038.9408433
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.9581015
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.966332
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.9570858
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781581564.0461612
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781581564.0461612
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "ccfde566116d3320b8ab12cb04cc5ac2323976a3da0c9a887b11e9c51b65b53e",
+    "mtime": 1781582070.5761302
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "1daa5c7d5dae7aa7766e7247c9892f15a781ad13a02d6bb1792bb4cd583433d6",
+    "mtime": 1781586038.9496157
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781578896.9761074
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.972325
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.9733274
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.9673245
+  },
+  "C:/Users/Егор/Documents\\InfoBase11\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781578896.9673245
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8.1CD": {
+    "hash": "ff64877c2773764d7018b4cff50b676877aee35f214492ca1a439d6d7af29386",
+    "mtime": 1779333225.9614823
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5522344
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5599532
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5512345
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778127670.8495207
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778127670.861092
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778127670.8495207
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118762.4433987
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8JobScheduler\\jobs.dat.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779265103.1714716
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "03d1806429f41039c0d658ca1c21f8482c76f1c890b0b4323a9f37695cb1fd5f",
+    "mtime": 1779265103.329549
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8Log\\20260504000000.lgp": {
+    "hash": "198938add835f17065e85b7ce42166d9a58462eda67741ccc5555b2ea3f6f9e1",
+    "mtime": 1778127948.7428799
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "75c6859b4d3b31b578bf5a7368afb3c46d93ad46640cb99f7ab1c2af75b1a156",
+    "mtime": 1778472259.9549637
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "4d8e1e57ee0e52929ebba10c9726fa55b47ba0a305a2587f8fe1aabdeb787650",
+    "mtime": 1779333225.966798
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778118428.567309
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5658703
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5658703
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5609696
+  },
+  "C:/Users/Егор/Documents\\InfoBase16\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778118428.5609696
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8.1CD": {
+    "hash": "9db321694ad37532bdf97b542c54aedbec85ee903c5fcdf190592cc5e1678444",
+    "mtime": 1779336987.212938
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0388558
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0388558
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0388558
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778529989.8686852
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "22b9e0ad8c29151e8f8cebba0fc6a4149a03d763f2f19b69e802bf9d4c226689",
+    "mtime": 1778530859.2641606
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "32518b9a6a7b8e10084a7274796b58bea545f57d290944aa764ddbd02c674157",
+    "mtime": 1778530886.213201
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "ea99c49c219dc0a10f8300c7632b5c8a146f0798b7323a11b42f0a0aef699b82",
+    "mtime": 1779336987.2257552
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778488156.0495152
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0495152
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0495152
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0388558
+  },
+  "C:/Users/Егор/Documents\\InfoBase17\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778488156.0388558
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8.1CD": {
+    "hash": "9a0ddce59a3a086af125f9cc105ea1d1dac4b47195b590d095558f016a517bb0",
+    "mtime": 1782290163.427679
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.314242
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.315246
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.3132427
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1782288370.6076832
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778531290.5683177
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "f021928007a07b04cb1edc3052b48815c9ccda247149d2fba1c95e00ba015515",
+    "mtime": 1782287848.0609896
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "774e2eb1eb2cb13c435bf2d917d47e292d7ef13e5a9b1e66f5b7b0de6eef5c5a",
+    "mtime": 1778533242.424322
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8Log\\20260622000000.lgp": {
+    "hash": "cf9e9c21fcb6779b70eb1cae7d91e66e2e683da38afbf06c1a4090f94ced0df9",
+    "mtime": 1782290163.4350348
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778530938.32323
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.3202505
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.3212445
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.315246
+  },
+  "C:/Users/Егор/Documents\\InfoBase18\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778530938.3162463
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8.1CD": {
+    "hash": "8c564b554ecdf1d6f044d55e216f5edac626439b0de251494d8d4c2b0dd60ab6",
+    "mtime": 1778534913.7650082
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7408714
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7418878
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.739858
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533678.9583454
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533678.9583454
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "f62703bc89efd374f956c2886b1f2c8afc7c1ba07e7891206040fa9df2f5154f",
+    "mtime": 1778534907.3645885
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "061a33592db223e2a1d4d4429df0fbfb865704f4811ea2ff7c0b3bdbe4ac8e24",
+    "mtime": 1778534913.7670302
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778533267.7496648
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7470388
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7470388
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7418878
+  },
+  "C:/Users/Егор/Documents\\InfoBase19\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778533267.7429466
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8.1CD": {
+    "hash": "ee49364a9901aa400022df5425a9d2475f705bdeea754e55d006959a5d14dbe7",
+    "mtime": 1779268074.7622528
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8089824
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8100774
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8089824
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779263012.0526304
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779263012.060382
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779263012.0526304
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779263141.7366734
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "f4ba6fef45d5af340900db497635d3d9f5a8237db1e65ae1aa08817b1f84b24f",
+    "mtime": 1779263141.737682
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "2790fecdb3c9c2b24dd36f91418e749a66e0077ce45eda7a7e9db45c13e9b704",
+    "mtime": 1779268074.7678843
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1779262945.8181186
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8151197
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8161182
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.8100774
+  },
+  "C:/Users/Егор/Documents\\InfoBase2\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779262945.811118
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8.1CD": {
+    "hash": "4023ce04600945c95a3637dc4e8bca7878b3386085601f84b9a23b409101afb1",
+    "mtime": 1778537555.944418
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9290261
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9364274
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9290261
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778535988.0336428
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778535988.0336428
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "b42c4d0810af68c6c394991c8fdfee50b9a20c11d4d277ef74a27fd8a45b6119",
+    "mtime": 1778537532.2449584
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "896d117434ba480bc9a9033e170ac75cdebe38b6da28556d0944a3c8283c263d",
+    "mtime": 1778537555.9467783
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778534952.9450896
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9413104
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9426222
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9376917
+  },
+  "C:/Users/Егор/Documents\\InfoBase20\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778534952.9376917
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8.1CD": {
+    "hash": "33559b0de635bfa2e90a5b3622a57aad2e4c7bced7a1a3e11e5abbf5b22a3758",
+    "mtime": 1778542370.5051353
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9014475
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9026039
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9014475
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778541126.6656334
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778539964.2168603
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "26de6d52371981c9b51fcee1e101a76ce88fbe308507b59b87c10ba9b6986703",
+    "mtime": 1778542314.321757
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "0d13262c8e8013eb53a7611b745d77bff61142f39abcbf72d8f2c6637eaa0ebc",
+    "mtime": 1778542370.507637
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778537590.9094117
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9070165
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9070165
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9026039
+  },
+  "C:/Users/Егор/Documents\\InfoBase21\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778537590.9036756
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8.1CD": {
+    "hash": "c3991b7e36c747b43a6de654214ad3d9d40e14358b0595885a1f896c95429413",
+    "mtime": 1778544997.259555
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.7972877
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.7982938
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.7972877
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "d25ff0cf3015b44a715393862f56f431147d52f6d331c1dc263b80187c43e10a",
+    "mtime": 1778544940.9424758
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "f8b7e19bd640f8787646c7a5ad4922e7f23560ccd2a6385dea206012bf351de3",
+    "mtime": 1778544997.2610533
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778542394.8052921
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.8032954
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.8042922
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.7992952
+  },
+  "C:/Users/Егор/Documents\\InfoBase22\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778542394.7992952
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8.1CD": {
+    "hash": "efe54928ee330921325ebd4e013b036ccfeab244fea4a0e3d7a8d785f17fe1c8",
+    "mtime": 1780370358.7232747
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6351507
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6351507
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6351507
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778571281.2133522
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778571281.2133522
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "a48998ac8d93d90160c12ea0d9254732d6757ec8e211d2e39b9eec83bee9caa3",
+    "mtime": 1778571692.9242826
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8Log\\20260511000000.lgp": {
+    "hash": "0fb397a8268520b2c39cbc010063f76cfeabc0947fc8f2a92874fd6fd796de0c",
+    "mtime": 1778732753.4705741
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8Log\\20260601000000.lgp": {
+    "hash": "f505a8e5602e88f9ef9bcadb33522abc9746630f2aff946f100dc8262bcf8ba6",
+    "mtime": 1780370358.7222748
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1778567815.6394677
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6394677
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6394677
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6351507
+  },
+  "C:/Users/Егор/Documents\\InfoBase23\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1778567815.6351507
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1CHelpIndex\\userDocs_ru.bin": {
+    "hash": "562d951af30d093404da67430aba911c3eceda200c2bd394105c55f80852f3a0",
+    "mtime": 1673106196.0
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1CHelpIndex\\userPostings_ru.bin": {
+    "hash": "a911212aa2e36fe930cb68b2102e10c70c2a4e42d238ccf6f224ed2779f03fcc",
+    "mtime": 1673106196.0
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1CHelpIndex\\userVocabulary_ru.bin": {
+    "hash": "ee24cfb4f6778a44a754244145bac90a241ccd28113ff859d5c0a920dbb899d9",
+    "mtime": 1673106196.0
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.4311767
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.432176
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.4311767
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\cfgInfo.dat": {
+    "hash": "82a1cb97626355e9273f12039cc18ae274225d94cb03d80f7425130364b9d9a1",
+    "mtime": 1780370535.4630544
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\changes20260602000000.log.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370825.8145237
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370437.9534621
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780459401.872095
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370437.9534621
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\docIdAddInfoMain.dat": {
+    "hash": "78d9108d267572c93cee1481315878a83993115c85277eb5015952ed6e9b980f",
+    "mtime": 1780370739.0122774
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\docIdAddInfoPart.dat": {
+    "hash": "cf59cafce05ca2a952ea74442f7e45686191030e423ed19f6905668b3700f55d",
+    "mtime": 1780459401.0207877
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\docIdCompMain.dat": {
+    "hash": "698d0a6fbeaaefa72dd9663dee23540ae72cfcc33ed5e0b758f9b3d814dd022c",
+    "mtime": 1780370739.0122774
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\docIdCompPart.dat": {
+    "hash": "2426627365c7040c46bca96958b55ab6817f1fcc5678c661cb39823b563f4b78",
+    "mtime": 1780459401.0207877
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\docIdIndexMain.dat": {
+    "hash": "663e803174a4c3b15b1b5fef56d08b0776ad243df09763fb4ee2c080cc985db9",
+    "mtime": 1780370739.0122774
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\docIdIndexPart.dat": {
+    "hash": "a63be2c58d7428b82519db0b55b56403657a06e0c9e94c1c03771b66544ceffe",
+    "mtime": 1780459401.0207877
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\files_for_accept\\maxDocIdForAccept.dat": {
+    "hash": "09dd52a9d23b2e2ab1ae20c1d0e809ee61906af8d7e38332582d0fd743bdf6ad",
+    "mtime": 1780459400.9782276
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\hashUrlToDocIdDay.dat": {
+    "hash": "337bdd362215bff655a674376a4d4ce503635b61e69a52227acbaf655212976b",
+    "mtime": 1780459401.0207877
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\indexMain.bin": {
+    "hash": "f37a5ceb580693c51dfd707999ac36e2b91708f3ff56d6a3447ab353d3d21765",
+    "mtime": 1780370755.3939054
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\indexPart3.bin": {
+    "hash": "135945e6f8b0e5ee4a102cf3037854d4d4ba66af279ef57b5776e29f1219f90d",
+    "mtime": 1780459401.840399
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\indexPartial.bin": {
+    "hash": "47c7b43315884c793c08197ac91ccc716336d93430010570cece2653372392ae",
+    "mtime": 1780375559.5059443
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\lastCheckoutDate.dat": {
+    "hash": "6eac33ecff95e48193d64d3def4c1f2579db8d6e78379d4abf5a67e33eb85307",
+    "mtime": 1780459401.872095
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\linkWeights.dat": {
+    "hash": "54ff8e7b2572e4252da2becda66d7f33bcaeb3483ff1574d3e32e41290b77e2d",
+    "mtime": 1780370633.2647395
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\objectMain.dat": {
+    "hash": "9528d924bddfc81c5154219ba67732f343a344f14776445484b097bfdb288d06",
+    "mtime": 1780370755.3939054
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\objectPart3.dat": {
+    "hash": "d4663bbc83dfaaa8148282927e6bbc32e4270ce203d2d2418989fbc9181ee03a",
+    "mtime": 1780459401.840399
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\objectPartial.dat": {
+    "hash": "113dadc3058c38c59f149b1f8838956df0b2a9ff7aa620b90fa0cf1d6fe2d8c5",
+    "mtime": 1780375559.5059443
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\removedDocIDs.dat": {
+    "hash": "60107ddbcbb13c8c7c65a00f273b4f21afa81c9d97c260638dca921adb4f33c8",
+    "mtime": 1780459401.0207877
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\separatorMain.dat": {
+    "hash": "52c18b9b58498db27c4ccfd1e52fc4268954902fadc673acb3f1c907c58f7736",
+    "mtime": 1780370755.395299
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\separatorPart3.dat": {
+    "hash": "ab1ffcbc1b35eeef8a7b9d39d7a5eb321ea453a2ddc49de4dcd9bc49df7773d2",
+    "mtime": 1780459401.840399
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\separatorPartial.dat": {
+    "hash": "ba26ceb220cd29778c425154e1e155fb9a5c81b0739fe5726abc0367d8e92b25",
+    "mtime": 1780375559.5059443
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\sepCorrespondence.dat": {
+    "hash": "7dd8131ae2fa008620548975bc31bc623f8c0efe1d136a831220ca5a940aad33",
+    "mtime": 1780459401.026002
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\useSeparationOfCompositeWords.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370733.9419234
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\ver.dat": {
+    "hash": "438534ed30be4f6581360b8ac0a2fb6a8e492c72d624c84cf4fc1c1f8024f8c8",
+    "mtime": 1780459401.8604505
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\vocabularyMain.ind": {
+    "hash": "483341073b182c98f10e1bdf6d4c80486faef95fe4cd333f4025fdd4cf8cd37e",
+    "mtime": 1780370755.3939054
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\vocabularyPart3.dat": {
+    "hash": "a9836f6a8e59d490f5b2318074531abf6b65e83b0ba4f647fd0c1134422716fd",
+    "mtime": 1780459401.840399
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\vocabularyPart3.ind": {
+    "hash": "faa437ca1ec4ddeab6aa62f195538822a9c0ba51890d32628dde6020ea9abe82",
+    "mtime": 1780459401.840399
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\vocabularyPartial.dat": {
+    "hash": "3a4acae5041a559ee7cbca40b7a71d0681cde874e8b12a940ad8187180519241",
+    "mtime": 1780375559.5059443
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\vocabularyPartial.ind": {
+    "hash": "72fa2744f64d90108e6e31da168a599a220bb080b4db968e76306dee9346302f",
+    "mtime": 1780375559.5059443
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\vocabularyWordsPart3.dat": {
+    "hash": "863ffefbd6a6ff44a02f4c6f959d534783827dd429c95011efdabe46a1e312a6",
+    "mtime": 1780459401.840399
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8FTxt\\vocabularyWordsPartial.dat": {
+    "hash": "f64e4641ae4701f8986de5c0ab39d76b97460d68285fdbd7f4af7db3180a9896",
+    "mtime": 1780375559.5059443
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370596.7088592
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8JobScheduler\\jobs.dat": {
+    "hash": "b1105baef5239e62fcbed97f859e66b289b485d67285b91feb55c19651d2412b",
+    "mtime": 1780459403.7468975
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8JobScheduler\\jobs.dat.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370596.7422378
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "b4db2fc5692b9940b05b73c07a5e491765e174e63b8042689c98854224d9cd0a",
+    "mtime": 1780383142.3980124
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8Log\\20260601000000.lgp": {
+    "hash": "dd2c532b4a89723513bd461fbef619cd7fc06d89ee45d52f66ba6d59ebc8a615",
+    "mtime": 1780459403.7309957
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1780370393.4407275
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.437961
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.437961
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.4331765
+  },
+  "C:/Users/Егор/Documents\\InfoBase3\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1780370393.4331765
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1CHelpIndex\\userDocs_ru.bin": {
+    "hash": "562d951af30d093404da67430aba911c3eceda200c2bd394105c55f80852f3a0",
+    "mtime": 1673106196.0
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1CHelpIndex\\userPostings_ru.bin": {
+    "hash": "a911212aa2e36fe930cb68b2102e10c70c2a4e42d238ccf6f224ed2779f03fcc",
+    "mtime": 1673106196.0
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1CHelpIndex\\userVocabulary_ru.bin": {
+    "hash": "ee24cfb4f6778a44a754244145bac90a241ccd28113ff859d5c0a920dbb899d9",
+    "mtime": 1673106196.0
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4323082
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4401226
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4323082
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\cfgInfo.dat": {
+    "hash": "82a1cb97626355e9273f12039cc18ae274225d94cb03d80f7425130364b9d9a1",
+    "mtime": 1771566271.9857051
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\changes20260520000000.log.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779212513.1461878
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565866.5394778
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779213726.839458
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565866.5394778
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\docIdAddInfoMain.dat": {
+    "hash": "dae9f3774a43aeb3897e509c61413494b405db1b2e049dfdd55c5dfe71bec8a7",
+    "mtime": 1779213684.112187
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\docIdCompMain.dat": {
+    "hash": "baa0301b823e31a23953a0cfe6369c4fe036dea2b0022a7c109eb9de834a020f",
+    "mtime": 1779213684.1007495
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\docIdIndexMain.dat": {
+    "hash": "41367940dc26d41f06b37e33217afcdce17d4bd872f3fbfdb3fa93d8a10721c9",
+    "mtime": 1779213684.1007495
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\files_for_accept\\maxDocIdForAccept.dat": {
+    "hash": "ad84607382c13fe86303c01f669b7ba5d6a84d29cbec9124c96ad14776669e1d",
+    "mtime": 1779213665.786602
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\hashUrlToDocIdDay.dat": {
+    "hash": "049902f2980e2d6c49c7d1f55251b28aaffdc366eba1588edd78798ebdd31893",
+    "mtime": 1779213670.326956
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\hashUrlToDocIdUrl.dat": {
+    "hash": "c3bdb4efbd68c9e45d095d745122267ca4b11ecbdd3f5225e0eacb19e903c348",
+    "mtime": 1779213684.1476624
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\indexMain.bin": {
+    "hash": "3eef12189226521223304e6430f20d926e2d138e71dc584708393f2a27c76c52",
+    "mtime": 1779213726.7309585
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\lastCheckoutDate.dat": {
+    "hash": "9ba79dcf70aca0ece08840b881682b53680736abf39980a4c337fbd5de59c185",
+    "mtime": 1779213684.051982
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\linkWeights.dat": {
+    "hash": "54ff8e7b2572e4252da2becda66d7f33bcaeb3483ff1574d3e32e41290b77e2d",
+    "mtime": 1771566276.7540011
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\objectMain.dat": {
+    "hash": "f0beb7e2688d6e6532733943d36168603972f8a4b28286e8179eacfab6559a34",
+    "mtime": 1779213726.7309585
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\separatorMain.dat": {
+    "hash": "fdd5e91b2fe801a585f1b28f35462272af9c8e11eb68409d9aa0cb45d2f0ba83",
+    "mtime": 1779213726.7309585
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\sepCorrespondence.dat": {
+    "hash": "7dd8131ae2fa008620548975bc31bc623f8c0efe1d136a831220ca5a940aad33",
+    "mtime": 1779213680.527879
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\useSeparationOfCompositeWords.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771566318.5832407
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\ver.dat": {
+    "hash": "438534ed30be4f6581360b8ac0a2fb6a8e492c72d624c84cf4fc1c1f8024f8c8",
+    "mtime": 1779213684.051982
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8FTxt\\vocabularyMain.ind": {
+    "hash": "4183ea32a89e797f11dc3df06b87eba490334f9801cadab9156e986cd54190c6",
+    "mtime": 1779213726.7309585
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1779212491.4444468
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771566102.0343444
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8JobScheduler\\jobs.dat": {
+    "hash": "a36f44dc4595158cff0db0b32b7ca104d73023fd955315c9292586a35312fc0c",
+    "mtime": 1779217987.625129
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8JobScheduler\\jobs.dat.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771566102.0660365
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "7b897c802f68100e3bff27c8d906b411215dead220db059a18328f99518850e2",
+    "mtime": 1779218668.8775513
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8Log\\20260216000000.lgp": {
+    "hash": "8d78afdde82a13efa589180eae2038a07e4f14143df0dc115c3ab84cad54939c",
+    "mtime": 1771772618.2363212
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8Log\\20260223000000.lgp": {
+    "hash": "d674690cc575fcb4002d7baa6aca7d4a0f30d89c06aafc0a681b0b144f4b9cba",
+    "mtime": 1771868063.8973584
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8Log\\20260302000000.lgp": {
+    "hash": "8a7003d4b4f2e1da4d54a35528d2a21b1b80f1e99bbd24b3f85e35aff67862a3",
+    "mtime": 1772863008.616117
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8Log\\20260309000000.lgp": {
+    "hash": "1a8104f0b67f1afc470e6dac37d3015c75b6c9c8212ea78dced00fe1f4ed7631",
+    "mtime": 1773063972.5936768
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8Log\\20260316000000.lgp": {
+    "hash": "4969a39ef4b40317180b0db0cde2e48c1fd6ff2e38e74a83e4915e1b0203e4bf",
+    "mtime": 1774034522.8703053
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8Log\\20260518000000.lgp": {
+    "hash": "73d9bcebcc0dedc296584f1d464828b58b234d60fe4c32c4ba25c934e20a94f6",
+    "mtime": 1779218680.45692
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8snc.1CD": {
+    "hash": "9fe2df51c60e27cd14926017277d30526c4eaca6d226c54e39964611e5f7ef44",
+    "mtime": 1779218591.5506244
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4637938
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.472795
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4401226
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1771565834.4401226
+  },
+  "C:/Users/Егор/Documents\\InfoBase4\\DoNotCopy.txt": {
+    "hash": "c847a556d987eefad82670c0934adb612973ed3bca86ccd35156062dc3a09b3f",
+    "mtime": 1771570488.5642147
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8.1CD": {
+    "hash": "aa49c9a937d90fe9adfbcf3bf68e4104cac686444194d06323758e01195d6d59",
+    "mtime": 1781538775.967695
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6704102
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6704102
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6704102
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8JobScheduler\\exec.lck": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781537130.4398663
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781537130.4353042
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "34748c3db3c5c2a22470d3750c01c1cac59030db25372bb4934fc4fc664fb39c",
+    "mtime": 1781538558.2760062
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "171612317af570323b0a1bf82265b80fe40fdc3f416229be6ba030ba6fd9c5f9",
+    "mtime": 1781538775.967695
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781535727.6852603
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6837032
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6837032
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6704102
+  },
+  "C:/Users/Егор/Documents\\InfoBase5\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535727.6704102
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8.1CD": {
+    "hash": "0c6bfa6c88f7154e2dad57d45200f52c897c7eb85ab5281fc2fe202d4b96b78b",
+    "mtime": 1781574240.3467183
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4744928
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4913585
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4744928
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8FTxt\\checkout.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535810.5833778
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8FTxt\\checkoutReasonFile.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535810.5930965
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8FTxt\\checkoutReasonProtect.dat": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535810.5833778
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "f4f61ed33d9e5eb35bc2135075c8cfcda042f8012ac84e5bb496beb39a4e82bf",
+    "mtime": 1781560293.7406716
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "30fb55b16e7506fa800986cfde3ad6ad9e8c9a6e98716d16549a662b130f7aff",
+    "mtime": 1781574240.3477137
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781535792.503885
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4913585
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4913585
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4913585
+  },
+  "C:/Users/Егор/Documents\\InfoBase6\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781535792.4913585
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8.1CD": {
+    "hash": "1a7277413524ab48a054f65664915d66968a615289b71507d6cb191086adf99b",
+    "mtime": 1781545729.035103
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.8566182
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.864437
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.8566182
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781543506.9302318
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "fe5e8213594dff9917b0e51a7a436e9f6349ba09409a0a1cfbfd2293ba516214",
+    "mtime": 1781545678.7364042
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "1ad0e23e4bddac413e285d4a32f558325feb4f20f60d95726d28013f559d543d",
+    "mtime": 1781545729.0379498
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781542875.8739228
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.8706467
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.8721395
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.864437
+  },
+  "C:/Users/Егор/Documents\\InfoBase7\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781542875.864437
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8.1CD": {
+    "hash": "df279a9c5347632442158f801695d218ac5741256538b1641d3ba6ad51ded010",
+    "mtime": 1781551582.4506862
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5834632
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5834632
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5834632
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781548095.8707383
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "858a6fd7f89229166b8cb12f89b25863a3c1e5f53bc0a6f546c37390f2f93c04",
+    "mtime": 1781551545.9624379
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "f22c7872d46927ce36089137880458ac494024c42deeb1a0484e4a72d3ccfa38",
+    "mtime": 1781551582.4506862
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781546733.5961866
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5961866
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5961866
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5834632
+  },
+  "C:/Users/Егор/Documents\\InfoBase8\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781546733.5834632
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8.1CD": {
+    "hash": "bb99a1134774d88ca26dcde6e648b8c572071024f05d41ebf5afffeac551e187",
+    "mtime": 1781554296.8788476
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.9200118
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.928555
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8.cgr.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.9200118
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8JobScheduler\\exec.lck.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781552598.9897861
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8Log\\1Cv8.lgf": {
+    "hash": "70b61bac4b130737a1552817aaaefb3a1f93b5741135aedab833bfecd08418fd",
+    "mtime": 1781554275.219737
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8Log\\20260615000000.lgp": {
+    "hash": "20d5a18e836f7e607f9022377c260bc79374efecd22ca423a0dd43e926c58855",
+    "mtime": 1781554296.8808525
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8snc.1CD": {
+    "hash": "d17b969e8cb3da6c3de44af5253a56ead1203abf1d6304e53f2990f8074a5457",
+    "mtime": 1781551604.9310715
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8snc.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.9310715
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8snc.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.9310715
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8tmp.1CD.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.928555
+  },
+  "C:/Users/Егор/Documents\\InfoBase9\\1Cv8tmp.1CL.cfl": {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mtime": 1781551604.928555
+  },
+  "C:/Users/Егор/Documents\\My Web Sites\\WebSite1\\bkg-blu.jpg": {
+    "hash": "b1a29792ecad947f16504d810e2ff216208565bcc9407a33f9f077c3ca42ddd2",
+    "mtime": 1559529338.0
+  },
+  "C:/Users/Егор/Documents\\My Web Sites\\WebSite1\\iis.png": {
+    "hash": "9d0f3359cb32400f3763222dfa3b429ef85b778186a91d7c15eeca749ad285f5",
+    "mtime": 1559529338.0
+  },
+  "C:/Users/Егор/Documents\\My Web Sites\\WebSite1\\iisstart.htm": {
+    "hash": "acd946343893c33d15a1e82e6fe4c8d5f6518518bfb7d04f70b0b8bdb3775356",
+    "mtime": 1559529338.0
+  },
+  "C:/Users/Егор/Documents\\My Web Sites\\WebSite1\\msweb-brand.png": {
+    "hash": "0dab61d6936f5cd8962139652f3d4d3c5a676df6473cceb1169ce30034c6094d",
+    "mtime": 1559529338.0
+  },
+  "C:/Users/Егор/Documents\\My Web Sites\\WebSite1\\w-brand.png": {
+    "hash": "4121d2360b3cf978191759200805023dc9c15f8da2de4772e1efac1c87faaca4",
+    "mtime": 1559529338.0
+  },
+  "C:/Users/Егор/Documents\\Toad Data Modeler Freeware\\Pictures\\export.bmp": {
+    "hash": "7ee971035f081677e7b7fd5c4fc391818d3924b66d644d4bc7b72fee40aaacdb",
+    "mtime": 1782061859.9060724
+  },
+  "C:/Users/Егор/Documents\\пнг\\,LMKNZJNDVZDB.png": {
+    "hash": "ecf5f33f1d46e3e97f000c15395385cb7ca97c99fde226c59fc1993fa81e8833",
+    "mtime": 1775094499.1770725
+  },
+  "C:/Users/Егор/Documents\\пнг\\,zx kjdnzhjvbndfhvbdlv.png": {
+    "hash": "80e8b169eb3dcd4b19b0e0026fc55c35cf0fd8befe37c45f12298d48ba1e9c56",
+    "mtime": 1775094533.3493435
+  },
+  "C:/Users/Егор/Documents\\пнг\\2ffe3ea94ca4055a4c0dfda0a05219e5.png": {
+    "hash": "235a06b63b5daf95a3e845e65efd6afa0b2bac9ad04bee83e44e66be6e484dfc",
+    "mtime": 1771952529.9061832
+  },
+  "C:/Users/Егор/Documents\\пнг\\92d7ff88798e01f4e8368ebb885df0a0.jpg": {
+    "hash": "f6a62a4b1c7ca43734562615a934fe875d226e17f151be6dfae33db23080a6f6",
+    "mtime": 1774394915.353088
+  },
+  "C:/Users/Егор/Documents\\пнг\\b35bd1a9ccaeb688c98528755d90611a.jpg": {
+    "hash": "12d73374c743281d248c99d5fbc01ba140c6021ffa5e4b487281586a8867175e",
+    "mtime": 1774393985.7523763
+  },
+  "C:/Users/Егор/Documents\\пнг\\f10303b9aa32be0374b5e0cbfb18307b.jpg": {
+    "hash": "91c4961598c5eb94188eab02c2628ddbd0ca3b05f67b87b819a769f1f1f73fea",
+    "mtime": 1774393879.260094
+  },
+  "C:/Users/Егор/Documents\\пнг\\HBJNHBVHDFVN JFDKVMFDV.png": {
+    "hash": "f71b1f0213ece21066635e320352df88181fc030727403e10bda306c3f7152b2",
+    "mtime": 1775094666.1434488
+  },
+  "C:/Users/Егор/Documents\\пнг\\kmfjkznjznb.png": {
+    "hash": "c20b02bb6d95a0dc71e5b084167a6deb3fca09dbfebb89951a29a1735959f0fa",
+    "mtime": 1775093396.9318635
+  },
+  "C:/Users/Егор/Documents\\пнг\\kmjnuhbsHSBDVDSV.png": {
+    "hash": "10a21f66057b5061df248cf3b1880fc2bc641d1bbdc500e2e22b9ffde56cfcc2",
+    "mtime": 1775094555.8217807
+  },
+  "C:/Users/Егор/Documents\\пнг\\KMKNZJDFNVHLZDB.png": {
+    "hash": "be080303d1bd2997589647450ebdf5ed04590c754d9d9dd247e06f6a37b59110",
+    "mtime": 1775094398.705165
+  },
+  "C:/Users/Егор/Documents\\пнг\\KMNJKVNSHDVBDSVDSVD.png": {
+    "hash": "4cfc783df98e333d3e63ad290c7da2481691a22a8508213b912e21e8e62858f5",
+    "mtime": 1775094593.7356122
+  },
+  "C:/Users/Егор/Documents\\пнг\\KnvHbcHbCVdsv.png": {
+    "hash": "766ff8f5edb914105f43fae20c3c2227ceb185acf0d9da57fa74856494f52857",
+    "mtime": 1775094370.7961206
+  },
+  "C:/Users/Егор/Documents\\пнг\\L,LKMNJDBVGHSBVDHV.png": {
+    "hash": "540b9e942abef517f54d2b05cae05eba443d9500deaf24fe656d82edf98fc069",
+    "mtime": 1775094637.2123966
+  },
+  "C:/Users/Егор/Documents\\пнг\\MEJnuierbgvnG.png": {
+    "hash": "2d277dd78e109655c20197258cbb9318c1d231442ab35905ccb6266176b45678",
+    "mtime": 1775094342.6686542
+  },
+  "C:/Users/Егор/Documents\\пнг\\mknHBvgsvvdv.png": {
+    "hash": "e82e408d614b456ccc62a33c0536632ea2c20fdce70a0700fd1b799e34291676",
+    "mtime": 1775093424.0284412
+  },
+  "C:/Users/Егор/Documents\\пнг\\MKZNDJBVDZFZVFBGBN.png": {
+    "hash": "ec88025d91107f378b032c70d6a594c1811de30c9581a227cd3cd9f9e82dc22b",
+    "mtime": 1775094477.0646427
+  },
+  "C:/Users/Егор/Documents\\пнг\\MVKJdsnvHJ dshv dsv V.png": {
+    "hash": "7d1c9c914be260478aa6dc7fee37c5e10ba53c3171bf4a34b5a5b4f8edffca71",
+    "mtime": 1775094445.675578
+  },
+  "C:/Users/Егор/Documents\\пнг\\n dh cghDScDVD.png": {
+    "hash": "bc1f115f0d905ebb5a4d1a7d3b66e3b828e0a919c7cff2852063dc3e73c8a5d6",
+    "mtime": 1775093433.9450312
+  },
+  "C:/Users/Егор/Documents\\пнг\\NJZHVFZLVFB.png": {
+    "hash": "ad35c49538bdcefd2360656b2b7cd7ed51ecbbffd2eef469ab1af8832fb59046",
+    "mtime": 1775094280.5249648
+  },
+  "C:/Users/Егор/Documents\\пнг\\VNJZBVHJDBV.png": {
+    "hash": "cd89eee73384d78602bc683cbc2941678e5601022fa587afd9813165e96deac8",
+    "mtime": 1775094256.2704935
+  },
+  "C:/Users/Егор/Documents\\пнг\\ZJVNZDJKVNDVBFBNGBN.png": {
+    "hash": "772fd77c52a55223040de51a6b3bb69ea90e0c5f91ab739c44de545329790c33",
+    "mtime": 1775094317.2957244
+  },
+  "C:/Users/Егор/Documents\\пнг\\бдьлятаияяи.png": {
+    "hash": "29b1fdb559166a233367588d4f5dca15edd480146a554a405f0e683f85f02c6c",
+    "mtime": 1775093082.1113203
+  },
+  "C:/Users/Егор/Documents\\пнг\\в вививива.png": {
+    "hash": "0d65649b40388221694e5586cc4a0350e8af01c2ba57bb54661ba71a010cba00",
+    "mtime": 1771952723.3486836
+  },
+  "C:/Users/Егор/Documents\\пнг\\вфииыииа.png": {
+    "hash": "2eebc1b62d98d1b07d4f0d9d8a99bf74e717190a98cfd1c88ca282531ec7378b",
+    "mtime": 1771952798.217589
+  },
+  "C:/Users/Егор/Documents\\пнг\\дтыломиДЫВОмиывм.png": {
+    "hash": "d26074891edd198869578b72aa859128f20a6b49126a3efe604b3fec138cab43",
+    "mtime": 1775128412.1019895
+  },
+  "C:/Users/Егор/Documents\\пнг\\дуьплутпу.png": {
+    "hash": "a1e2fbb18eb19ed7dce2034a9c402650fc988765c2c944b7155a8ce9b93f1e09",
+    "mtime": 1771952696.5082197
+  },
+  "C:/Users/Егор/Documents\\пнг\\йвйы.png": {
+    "hash": "fa8954b45ec75d20eef9cb51b1f7c586260a52f68b5a79cb2755d0e80f548de0",
+    "mtime": 1771952595.823442
+  },
+  "C:/Users/Егор/Documents\\пнг\\красн.png": {
+    "hash": "34c214f53827c1b8719ef8259f5fd9792496f3646ab64b5978ab0f1155a46335",
+    "mtime": 1775092617.7675352
+  },
+  "C:/Users/Егор/Documents\\пнг\\л ялодавимяи.png": {
+    "hash": "a26b8c95c69a06548afcd464fd156f6f8593fa326e340f7f9a0ec264fd9af6a4",
+    "mtime": 1775092951.8629124
+  },
+  "C:/Users/Егор/Documents\\пнг\\лдитиыжиыки.png": {
+    "hash": "7e8ba345c29f4e6b4e28fec2d229074232a01b21be5f39e30edd9e47e5d8881b",
+    "mtime": 1775092795.8957832
+  },
+  "C:/Users/Егор/Documents\\пнг\\лутоутмуоиу.png": {
+    "hash": "c0d1304ced22f679581fbb6dc0e36896866baff94756d2a7626091846d79e49b",
+    "mtime": 1771952836.3031635
+  },
+  "C:/Users/Егор/Documents\\пнг\\маикпи.png": {
+    "hash": "e8679f92f28a1f7e02feff45518c047f6baaa15a943500aeaf944cfd2a6894d5",
+    "mtime": 1771952664.1394854
+  },
+  "C:/Users/Егор/Documents\\пнг\\мвимва.png": {
+    "hash": "dac61a159b787d8d8f2a4d004ee089adac0dc79dca2721af55b7df9d3a440738",
+    "mtime": 1771952558.29155
+  },
+  "C:/Users/Егор/Documents\\пнг\\сфафвымымв.png": {
+    "hash": "8573cab9cb7636a210176d8affa1e6e297f0ea6bb34a240114aacf9532baa748",
+    "mtime": 1775128370.911287
+  },
+  "C:/Users/Егор/Documents\\пнг\\толДИРВИмвм.png": {
+    "hash": "4ab851033344faa5fd5308be2cb4d1c5a2de2ec639ae4220ec57234619209b6f",
+    "mtime": 1775093111.1220796
+  },
+  "C:/Users/Егор/Documents\\пнг\\ффмффваиви.png": {
+    "hash": "f798047bc8ac0a59fb03dea8510be7f936f6e1c02db20cf407fe116e4bc13040",
+    "mtime": 1775092836.7373385
+  },
+  "C:/Users/Егор/Documents\\пнг\\черн.png": {
+    "hash": "1a12b3962c753fa2114726ffd5dcd5b77f004d324e22759dd8e0fd1dd2c8464e",
+    "mtime": 1775092586.448235
+  },
+  "C:/Users/Егор/Documents\\пнг\\ывмывмиымывсмы.png": {
+    "hash": "a670f9b98e0320d93be97288ae7df4f9d4d7bf0f7279760664cdffabf0b91110",
+    "mtime": 1775127826.0806055
+  },
+  "C:/Users/Егор/Documents\\пнг\\ытолыитмолфм.png": {
+    "hash": "adc156103cdd308cf776c1a3ecf6fbd334c462059762f81953dcdcb9805843c6",
+    "mtime": 1775092907.8518465
+  },
+  "C:/Users/Егор/Documents\\пнг\\ь ол ысрдм.png": {
+    "hash": "a322ed1f5906c5e10ae3253e44922cdd0e5a8784cbc78079a4ddc986444470d1",
+    "mtime": 1775093020.3068993
+  },
+  "C:/Users/Егор/Documents\\пнг\\ьилдтиолфиваиои.png": {
+    "hash": "7181ba1a967d4e05fb3f424dc39d6a127dce92c3cb63c615e9355b50a3fdee6d",
+    "mtime": 1775092992.5020063
+  },
+  "C:/Users/Егор/Documents\\пнг\\ьосывс.png": {
+    "hash": "80e99749202ac5ae0daf0d5de730162cca87a5587a6ffe45c40ab250e480f017",
+    "mtime": 1771952635.6102808
+  },
+  "C:/Users/Егор/Documents\\пнг\\я я яль пяаи.png": {
+    "hash": "af7ba7e9f365c05e93de36f11e1f39c1a6660db5e6da97f6c28a8a7ebeda3b9d",
+    "mtime": 1775092865.5470974
+  }
+}
